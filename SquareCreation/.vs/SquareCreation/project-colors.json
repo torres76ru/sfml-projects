@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1093ee8b-50d3-4168-a3b2-2dbe5605c2cd": {
+      "ProjectGuid": "1093ee8b-50d3-4168-a3b2-2dbe5605c2cd",
+      "DisplayName": "SquareCreation",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

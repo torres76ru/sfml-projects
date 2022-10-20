@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef264f2d-79fc-454e-aa5a-f7f0c1f5ec35": {
+      "ProjectGuid": "ef264f2d-79fc-454e-aa5a-f7f0c1f5ec35",
+      "DisplayName": "heavy_piece",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

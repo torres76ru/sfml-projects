@@ -1,0 +1,273 @@
+﻿  Core.cpp
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(20,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(20,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(21,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(21,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(22,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(22,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(251,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(251,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(252,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(252,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(253,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(253,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(262,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(262,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(263,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(263,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(264,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(264,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(274,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(274,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(275,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(275,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(276,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(276,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(320,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\Core.cpp(322,26): warning C4018: '<': signed/unsigned mismatch
+  TriangleIntersection.vcxproj -> C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\Debug\TriangleIntersection.exe
+
+Project Performance Summary:
+     2987 ms  C:\Users\user\Documents\Учеба\RGATU\c++\TriangleIntersection\TriangleIntersection\TriangleIntersection.vcxproj   1 calls
+               2987 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  AfterBuildCompileEvent                     1 calls
+        0 ms  _Manifest                                  1 calls
+        0 ms  _ALink                                     1 calls
+        0 ms  _Link                                      1 calls
+        0 ms  AfterLink                                  1 calls
+        0 ms  ComputeLinkSwitches                        1 calls
+        0 ms  DoLinkOutputFilesMatch                     1 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  ComputeManifestInputsTargets               1 calls
+        0 ms  ComputeLinkInputsFromProject               1 calls
+        0 ms  ComputeManifestGeneratedLinkerInputs       1 calls
+        0 ms  ComputeRCGeneratedLinkInputs               1 calls
+        0 ms  ComputeRCOutputs                           1 calls
+        0 ms  BeforeLink                                 1 calls
+        0 ms  BuildLinkTraverse                          1 calls
+        0 ms  BuildCompile                               1 calls
+        0 ms  _BuildCompileAction                        1 calls
+        0 ms  _ResourceCompile                           1 calls
+        0 ms  AfterResourceCompile                       1 calls
+        0 ms  BeforeResourceCompile                      1 calls
+        0 ms  _ClCompile                                 1 calls
+        0 ms  RegisterOutput                             1 calls
+        0 ms  ResolvedXDCMake                            1 calls
+        0 ms  MakeDirsForXdcMake                         1 calls
+        0 ms  _XdcMake                                   1 calls
+        0 ms  IncrementalClean                           1 calls
+        0 ms  AfterBuild                                 1 calls
+        0 ms  BuildLink                                  1 calls
+        0 ms  _BuildLinkAction                           1 calls
+        0 ms  PostBuildEvent                             1 calls
+        0 ms  PrepareForRun                              1 calls
+        0 ms  _CheckForCompileOutputs                    1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  _GetCopyToOutputDirectoryItemsFromThisProject   1 calls
+        0 ms  _GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences   1 calls
+        0 ms  AfterClCompile                             1 calls
+        0 ms  GetCopyToOutputDirectoryXamlAppDefs        1 calls
+        0 ms  _Deploy                                    1 calls
+        0 ms  _Appverifier                               1 calls
+        0 ms  CreateSatelliteAssemblies                  1 calls
+        0 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        0 ms  ContentFilesProjectOutputGroup             1 calls
+        0 ms  SatelliteDllsProjectOutputGroup            1 calls
+        0 ms  BuiltProjectOutputGroup                    1 calls
+        0 ms  _BscMake                                   1 calls
+        0 ms  MakeDirsForBscMake                         1 calls
+        0 ms  ComputeCLCompileGeneratedSbrFiles          1 calls
+        0 ms  _PopulateCommonStateForGetCopyToOutputDirectoryItems   1 calls
+        0 ms  SelectClCompile                            1 calls
+        0 ms  Build                                      1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  MakeDirsForMidl                            1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  ResolveProjectReferences                   1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  ComputeCustomBuildOutput                   1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  GetResolvedWinMD                           1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  ComputeCLInputPDBName                      1 calls
+        0 ms  GetFrameworkPaths                          1 calls
+        0 ms  ComputeReferenceCLInput                    1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  _AddOutputPathToGlobalPropertiesToRemove   1 calls
+        0 ms  FindReferenceAssembliesForReferences       1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  _Midl                                      1 calls
+        1 ms  ComputeLinkImportLibraryOutputsForClean    1 calls
+        1 ms  CopyFileToFolders                          1 calls
+        1 ms  ComputeLegacyManifestEmbedding             1 calls
+        1 ms  _PrepareForBuild                           1 calls
+        1 ms  SetCABuildNativeEnvironmentVariables       1 calls
+        1 ms  GetReferencedVCProjectsInfo                1 calls
+        1 ms  ComputeCLGeneratedLinkInputs               1 calls
+        1 ms  MakeDirsForLink                            1 calls
+        1 ms  ComputeCLOutputs                           1 calls
+        1 ms  PreLinkEvent                               1 calls
+        1 ms  ComputeCLCompileGeneratedXDCFiles          1 calls
+        1 ms  CopyFilesToOutputDirectory                 1 calls
+        1 ms  GetReferenceAssemblyPaths                  1 calls
+        1 ms  MakeDirsForFxc                             1 calls
+        1 ms  MakeDirsForResourceCompile                 1 calls
+        1 ms  MakeDirsForCl                              1 calls
+        1 ms  PrepareProjectReferences                   1 calls
+        1 ms  ResolveAssemblyReferences                  1 calls
+        1 ms  _CheckWindowsSDKInstalled                  1 calls
+        1 ms  _PrepareForReferenceResolution             1 calls
+        2 ms  SetBuildDefaultEnvironmentVariables        1 calls
+        2 ms  AssignProjectConfiguration                 1 calls
+        2 ms  AssignTargetPaths                          1 calls
+        2 ms  FinalizeBuildStatus                        1 calls
+        2 ms  SplitResourcesByCulture                    1 calls
+        2 ms  WarnCompileDuplicatedFilename              1 calls
+        2 ms  AddExternalIncludDirectoriesToPaths        1 calls
+        3 ms  FixupCLCompileOptions                      1 calls
+        3 ms  _CleanGetCurrentAndPriorFileWrites         1 calls
+        4 ms  GetCopyToOutputDirectoryItems              1 calls
+        8 ms  PrepareForBuild                            1 calls
+        9 ms  InitializeBuildStatus                      1 calls
+       15 ms  SetTelemetryEnvironmentVariables           1 calls
+       15 ms  CustomBuild                                1 calls
+       17 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+       27 ms  CreateRecipeFile                           1 calls
+       55 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+      618 ms  Link                                       1 calls
+     2170 ms  ClCompile                                  1 calls
+
+Task Performance Summary:
+        0 ms  Delete                                     2 calls
+        0 ms  FindUnderPath                              5 calls
+        0 ms  ConvertToAbsolutePath                      1 calls
+        1 ms  Message                                    3 calls
+        1 ms  AssignTargetPath                           7 calls
+        1 ms  RemoveDuplicates                           2 calls
+        1 ms  WriteLinesToFile                           1 calls
+        1 ms  AssignCulture                              1 calls
+        1 ms  MSBuild                                    1 calls
+        2 ms  CallTarget                                 2 calls
+        2 ms  AssignProjectConfiguration                 1 calls
+        2 ms  MakeDir                                   10 calls
+        2 ms  CheckVCToolsetVersion                      1 calls
+        3 ms  Touch                                      2 calls
+        4 ms  SetEnv                                     9 calls
+        6 ms  ReadLinesFromFile                          2 calls
+       16 ms  GetOutOfDateItems                          3 calls
+       26 ms  GenerateDesktopDeployRecipe                1 calls
+      617 ms  Link                                       1 calls
+     2168 ms  CL                                         1 calls

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05ff3d66-7684-4ba1-888e-a37244348647": {
+      "ProjectGuid": "05ff3d66-7684-4ba1-888e-a37244348647",
+      "DisplayName": "GaltonBoard",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
